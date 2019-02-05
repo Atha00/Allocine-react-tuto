@@ -1,0 +1,36 @@
+.main {
+  max-width: 1024px;
+}
+.title {
+  text-align: center;
+}
+.header {
+  background-color: #fbc707;
+}
+.movie {
+  margin: 0 120px;
+  display: flex;
+}
+.movieleft {
+  flex: 1;
+}
+.movieright {
+  flex: 1;
+}
+.div2 {
+  margin: 0 120px;
+}
+.resize {
+  max-width: 100%;
+  height: auto;
+}
+.yellowButton {
+  background-color: #fbc707;
+}
+.blackButton {
+  background-color: black;
+  color: white;
+}
+.greyButton {
+  background-color: white;
+}
